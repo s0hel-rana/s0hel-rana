@@ -7,7 +7,7 @@
 
 :root {
     --primary: #34353A;
-    --secondary: #FFC96B;
+    --secondary: green;
     --textColor: #fff;
 }
 
@@ -92,7 +92,7 @@ input::placeholder {
 
 .col_hero_info h1 {
     font-size: 30px;
-    color: white;
+    color: blue;
 }
 
 .col_hero_info span {
@@ -102,7 +102,8 @@ input::placeholder {
 
 .col_hero_info p {
     font-size: 25px;
-    color: #fff;
+    color: black;
+    font-weight: bold;
     width: 400px;
     padding: 20px 0px;
 }
@@ -124,7 +125,7 @@ input::placeholder {
 }
 
 #full_row {
-    background-image: url(image/sohel1.png);
+    background-image: url(image/sohel2.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
